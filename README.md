@@ -15,3 +15,12 @@
 Abhishek Peiris - [@AbhishekPeiris](https://twitter.com/AbhishekPeiris) - abhishekpeiris9@gmail.com - [abhishekpeiris](https://www.linkedin.com/in/abhishekpeiris/)
 
 Project Link: [https://github.com/peirisabhi/employee_managment](https://github.com/peirisabhi/employee_managment)
+
+
+#### Sample Images
+
+![img](images/login.png)
+![img](images/admin-menu.png)
+![img](images/manage-employees.png)
+![img](images/change-password.png)
+![img](images/mark-attendance.png)
