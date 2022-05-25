@@ -12,6 +12,6 @@
 
 ### Contact
 
-Abhishek Peiris - [@AbhishekPeiris](https://twitter.com/AbhishekPeiris) - abhishekpeiris9@gmail.com - [abhishekpeiris](www.linkedin.com/in/abhishekpeiris)
+Abhishek Peiris - [@AbhishekPeiris](https://twitter.com/AbhishekPeiris) - abhishekpeiris9@gmail.com - [abhishekpeiris](https://www.linkedin.com/in/abhishekpeiris/)
 
 Project Link: [https://github.com/peirisabhi/employee_managment](https://github.com/peirisabhi/employee_managment)
